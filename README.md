@@ -1,4 +1,7 @@
-Local Weather App
+Local Weather
+
+Using simple-weather API, this app displays local weather views for today and the week ahead. The app was made using react and styled with Google's Material Design, and inspired by an assignment at freecodecamp.
+_________________________________
 
 Free code camp project: https://www.freecodecamp.org/challenges/show-the-local-weather
 
@@ -11,5 +14,3 @@ Rule #2: Fulfill the below user stories. Use whichever libraries or APIs you nee
 User Story: I can see the weather in my current location.
 
 User Story: I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.
-
-User Story: I can push a button to toggle between Fahrenheit and Celsius.
